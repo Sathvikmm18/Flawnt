@@ -22,6 +22,7 @@ Face Tracking	Google ML Kit
 AR Makeup Overlay	Google ARCore
 Product Integration	Amazon, Sephora, Ulta APIs
 Platform	Android (Kotlin/Java) / Optional Flutter or React Native
+
 🖼️ How It Works
 Upload Photo: User uploads a photo taken in natural light.
 
