@@ -1,5 +1,3 @@
-:
-
 💄 FLAWNT – AI-Powered Color Analysis Makeup Application
 FLAWNT is an AI-driven mobile application that simplifies personalized makeup selection through intelligent color analysis. By evaluating a user’s natural features—skin tone, undertone, hair, and eye color—FLAWNT recommends the most flattering shades of foundation, lipstick, blush, and eyeshadow. Say goodbye to guesswork and hello to a perfectly matched look, every time.
 
